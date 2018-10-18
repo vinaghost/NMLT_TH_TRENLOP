@@ -1,0 +1,3 @@
+Bài 3: Viết chương trình nhập vào năm và tháng từ bàn phím rồi xuất ra màn hình tổng số ngày trong tháng đó.
+Bài 4: Tìm hiểu và viết chương nhập vào hai số a và b được nhập vào từ bàn phím. Rồi xuất ra màn hình ước chung của hai số a và b đã nhập.
+Bài 5: Tìm hiểu và viết chương trình nhập vào một số n từ bàn phím (số nguyên) rồi xuất ra màn hình dạng nhị phân của số đó.

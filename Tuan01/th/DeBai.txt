@@ -1,0 +1,2 @@
+Bài 1: In dòng chữ "Hello World"
+Bài 2: In số ngày của tháng nhập vào từ bàn phím
